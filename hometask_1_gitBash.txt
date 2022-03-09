@@ -43,20 +43,3 @@ $ nano myscript.sh
 
 	echo "Script ist beendet!"
 	echo "Done"
-
-$ bash myscript.sh
-
-	cd folder_name
-	mkdir dir_1 dir_2 dir_3
-	cd dir_1
-	touch test_1.txt test_2.txt test_3.txt test_4.json test_5.json
-	mkdir folder_1 folder_2 folder_3
-	ls -la
-	mv test_2.txt test_3.txt ../dir_3
-
-	echo "Script ist beendet!"
-	echo "Done"
-
-$ bash myscript.sh
-
-
