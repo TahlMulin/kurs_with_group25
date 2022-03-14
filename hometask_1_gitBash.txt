@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿1) посмотреть где я === pwd
+=======
+1) посмотреть где я === pwd
+>>>>>>> 4a499ae4c34df294ac08f55c7894dbec9bd6c5ed
 2) создать папку === mkdir folder_name
 3) зайти в папку === cd folder_name
 4) создать 3 папки === mkdir dir_1 dir_2 dir_3
@@ -43,7 +47,3 @@ $ nano myscript.sh
 
 	echo "Script ist beendet!"
 	echo "Done"
-
-$ bash myscript.sh
-
-
