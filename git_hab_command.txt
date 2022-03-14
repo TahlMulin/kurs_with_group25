@@ -1,0 +1,12 @@
+git clone link
+git status
+git add .
+git add name.txt
+[A[A[A
+
+[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[B[B[Bgit commit -m ""[Dmessage for file"
+git push
+git commit -am ""[Dmessage for file"
+git fetch
+git pull
