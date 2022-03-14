@@ -1,0 +1,17 @@
+﻿git clone link
+
+git status
+
+git add .
+
+git add name.txt
+
+git commit -m "message for file"
+
+git push
+git commit -am "message for file"
+
+git push
+git fetch
+
+git pull
